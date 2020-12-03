@@ -1,11 +1,11 @@
 {
-  "name": "npm-playground",
+  "name": "npm-playground-anton-boo",
   "version": "1.0.0",
   "description": "NPM Playground",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Anton Shevchenko <a.v.shevchenk@gmail.com>",
   "license": "ISC"
 }
